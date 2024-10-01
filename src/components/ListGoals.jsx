@@ -81,6 +81,7 @@ function ListGoals({goals, data}) {
           <option value="none">None</option>
           <option value="a_z">A to Z</option>
           <option value="z_a">Z to A</option>
+          <option value="0_9">0 to 9</option>
           <option value="most_stars">Most Stars</option>
           <option value="fewest_stars">Fewest Stars</option>
         </select>
